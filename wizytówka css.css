@@ -1,0 +1,15 @@
+.main{
+    background: gray;
+    font-size: 50px;
+}
+
+#blue{
+    font-size: 70px;
+    color: blue;
+}
+.fat_letter{
+    font-size: 25px;
+}
+.button{
+    font-size: larger;
+}
